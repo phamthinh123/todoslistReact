@@ -1,0 +1,20 @@
+.Todos{
+	display: flex;
+	align-items: center;
+	border-bottom: 1px solid rgba(0,0,0,.4);
+  padding: 1rem;
+}
+p{
+	 margin-left: 0.5rem;
+ 
+}
+.Footer{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	padding: 1rem;
+}
+button{
+	padding: 0.3rem;
+	min-width: 40px;
+}
